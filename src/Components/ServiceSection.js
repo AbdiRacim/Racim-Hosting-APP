@@ -12,27 +12,27 @@ export default function ServiceSection() {
             icon: <TiLockClosedOutline className="ion-icon"/>,
             title: "SSL certifecate",
             para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia,ea!",
-            linky:'#',
+            linky:'https://www.google.com',
             
         },{
             id:1,
             icon: <TiGlobeOutline className="ion-icon"/>,
             title: "Personal Domain",
             para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia,ea!",
-            linky:'#',
+            linky:'https://www.google.com',
         },{
             id:2,
             icon:<BsCodeSlash className="ion-icon"/> ,
             title: "Code Editor",
             para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia,ea!",
-            linky:'#',
+            linky:'https://www.google.com',
             
         },{
             id:3,
             icon: <IoFileTrayStackedSharp className="ion-icon"/>,
             title: "Media Storage",
             para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia,ea!",
-            linky:'#',
+            linky:'https://www.google.com',
             
         }
     ]

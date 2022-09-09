@@ -108,7 +108,7 @@ button ion-icon {
   display: flex;
 }
 
-* Media queries */
+/* Media queries */
 @media screen and (max-width: 900px) {
   :root {
     font-size: 10px;
